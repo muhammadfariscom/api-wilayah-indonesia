@@ -251,8 +251,8 @@
 1813,18,Kab. Pesisir Barat
 1810,18,Kab. Pringsewu
 1802,18,Kab. Tanggamus
-1812,18,Kab. Tulang Bawang Barat
 1808,18,Kab. Tulang Bawang
+1812,18,Kab. Tulang Bawang Barat
 1807,18,Kab. Way Kanan
 1871,18,Kota Bandar Lampung
 1872,18,Kota Metro
@@ -260,9 +260,9 @@
 8109,81,Kab. Buru Selatan
 8105,81,Kab. Kepulauan Aru
 8101,81,Kab. Kepulauan Tanimbar
-8102,81,Kab. Maluku Tenggara
-8103,81,Kab. Maluku Tengah
 8108,81,Kab. Maluku Barat Daya
+8103,81,Kab. Maluku Tengah
+8102,81,Kab. Maluku Tenggara
 8106,81,Kab. Seram Bagian Barat
 8107,81,Kab. Seram Bagian Timur
 8171,81,Kota Ambon
@@ -271,8 +271,8 @@
 8204,82,Kab. Halmahera Selatan
 8202,82,Kab. Halmahera Tengah
 8206,82,Kab. Halmahera Timur
-8203,82,Kab. Halmahera Utara
-8205,82,Kab. Kepulauan Sula
+8205,82,Kab. Halmahera Utara
+8203,82,Kab. Kepulauan Sula
 8207,82,Kab. Pulau Morotai
 8208,82,Kab. Pulau Taliabu
 8271,82,Kota Ternate
@@ -287,6 +287,7 @@
 5207,52,Kab. Sumbawa Barat
 5272,52,Kota Bima
 5271,52,Kota Mataram
+5304,53,Kab Timor Tengah Selatan
 5307,53,Kab. Alor
 5306,53,Kab. Belu
 5311,53,Kab. Ende
@@ -306,9 +307,24 @@
 5317,53,Kab. Sumba Barat Daya
 5316,53,Kab. Sumba Tengah
 5302,53,Kab. Sumba Timur
-5304,53,Kab. Timor Tengah Selatan
 5305,53,Kab. Timor Tengah Utara
 5371,53,Kota Kupang
+9409,94,Kab. Biak Numfor
+9403,94,Kab. Jayapura
+9420,94,Kab. Keerom
+9408,94,Kab. Kepulauan Yapen
+9428,94,Kab. Mamberamo Raya
+9419,94,Kab. Sarmi
+9427,94,Kab. Supiori
+9426,94,Kab. Waropen
+9471,94,Kota Jayapura
+9101,91,Kab. Fak Fak
+9102,91,Kab. Kaimana
+9105,91,Kab. Manokwari
+9111,91,Kab. Manokwari Selatan
+9112,91,Kab. Pegunungan Arfak
+9104,91,Kab. Teluk Bintuni
+9103,91,Kab. Teluk Wondama
 1408,14,Kab. Bengkalis
 1403,14,Kab. Indragiri Hilir
 1402,14,Kab. Indragiri Hulu
